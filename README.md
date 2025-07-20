@@ -25,3 +25,5 @@
 </div>
 
 <br clear="both">
+
+![snake gif](https://github.com/alejandroberod/alejandroberod/blob/output/github-snake-dark.svg)

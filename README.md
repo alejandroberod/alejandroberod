@@ -9,6 +9,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroberod&theme=dracula&layout=compact&bg_color=0d1117&title_color=FF2F61B2&text_color=ffe2e7" width="36%" /> <br/>
 </div>
 
+<h2 align="center">
+  💻 Tech Stack ⚡
+</h3>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
   <img width="12" />

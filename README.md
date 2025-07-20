@@ -4,11 +4,10 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandroberod&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroberod&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroberod&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandroberod&theme=dracula&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FF2F61B2&text_color=ffe2e7&icon_color=FF2F61B2" width="55%" /> <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroberod&theme=dark&background=0d1117&ring=FF2F61B2&fire=FF2F61B2&currStreakLabel=FF2F61B2&sideNums=ffe2e7" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroberod&theme=dracula&layout=compact&bg_color=0d1117&title_color=FF2F61B2&text_color=ffe2e7" width="36%" /> <br/>
 </div>
-
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
@@ -21,7 +20,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="12" />
@@ -38,4 +37,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/alejandroberod/alejandroberod/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/alejandroberod/alejandroberod/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>

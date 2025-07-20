@@ -1,5 +1,9 @@
 name: GitHub Snake Game
 
+# 1. Dar permisos de escritura al token
+permissions:
+  contents: write
+
 
 
 on:
@@ -46,10 +50,9 @@ jobs:
 
         uses: actions/checkout@v3
         with:
-            lfs: true
-            token: ${{ secrets.ACCESS_TOKEN }}
-
-
+          # Esto asegura que el GITHUB_TOKEN siga disponible para los pasos posteriores
+          persist-credentials: true
+          fetch-depth: 0
 
       # Step 2: Generate the snake animations
 
